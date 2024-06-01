@@ -23,5 +23,5 @@ b=input('enter another number: ')
 total=int(a)*int(b)/100
 print(total)
 
-#work for lexical graphycally
+#work for lexical graphically
 print (('orange' > 'apple'))
